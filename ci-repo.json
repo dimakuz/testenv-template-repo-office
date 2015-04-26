@@ -90,5 +90,5 @@
       "type": "http"
     }
   }, 
-  "name": "Templates for CI"
+  "name": "phx_repo"
 }
