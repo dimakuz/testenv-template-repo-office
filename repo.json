@@ -40,7 +40,7 @@
       "versions": {
         "v1": {
           "source": "in-office-minidell",
-          "handle": "centos7-container-tpl.qcow2",
+          "handle": "centos7/host/centos7-container-tpl.qcow2",
           "timestamp": 1428328144
         }
       }
