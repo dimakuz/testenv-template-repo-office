@@ -97,6 +97,7 @@
         "baseurl": "http://10.35.1.12/repo/"
       },
       "type": "http"
+    }
   },
   "name": "in_office_repo"
 }
