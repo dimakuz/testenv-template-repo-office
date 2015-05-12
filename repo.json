@@ -3,8 +3,8 @@
     "centos6_engine": {
       "versions": {
         "v1": {
-          "source": "in-office-minidell", 
-          "handle": "centos6/engine/v1.qcow2", 
+          "source": "in-office-minidell",
+          "handle": "centos6/engine/v1.qcow2",
           "timestamp": 1428328144
         }
       }
@@ -12,8 +12,8 @@
     "centos6_host": {
       "versions": {
         "v1": {
-          "source": "in-office-minidell", 
-          "handle": "centos6/host/v1.qcow2", 
+          "source": "in-office-minidell",
+          "handle": "centos6/host/v1.qcow2",
           "timestamp": 1428328144
         }
       }
@@ -21,8 +21,8 @@
     "centos7_engine": {
       "versions": {
         "v1": {
-          "source": "in-office-minidell", 
-          "handle": "centos7/engine/v1.qcow2", 
+          "source": "in-office-minidell",
+          "handle": "centos7/engine/v1.qcow2",
           "timestamp": 1428328144
         }
       }
@@ -30,8 +30,17 @@
     "centos7_host": {
       "versions": {
         "v1": {
-          "source": "in-office-minidell", 
-          "handle": "centos7/host/v1.qcow2", 
+          "source": "in-office-minidell",
+          "handle": "centos7/host/v1.qcow2",
+          "timestamp": 1428328144
+        }
+      }
+    },
+    "centos7_docker_host": {
+      "versions": {
+        "v1": {
+          "source": "in-office-minidell",
+          "handle": "centos7/host/centos7-container-tpl.qcow2",
           "timestamp": 1428328144
         }
       }
@@ -39,8 +48,8 @@
     "rhel7_engine": {
       "versions": {
         "v1": {
-          "source": "in-office-minidell", 
-          "handle": "rhel7/engine/v1.qcow2", 
+          "source": "in-office-minidell",
+          "handle": "rhel7/engine/v1.qcow2",
           "timestamp": 1428328144
         }
       }
@@ -48,8 +57,8 @@
     "rhel7_host": {
       "versions": {
         "v1": {
-          "source": "in-office-minidell", 
-          "handle": "rhel7/host/v1.qcow2", 
+          "source": "in-office-minidell",
+          "handle": "rhel7/host/v1.qcow2",
           "timestamp": 1428328144
         }
       }
@@ -86,9 +95,9 @@
     "in-office-minidell": {
       "args": {
         "baseurl": "http://10.35.1.12/repo/"
-      }, 
+      },
       "type": "http"
     }
-  }, 
+  },
   "name": "in_office_repo"
 }
