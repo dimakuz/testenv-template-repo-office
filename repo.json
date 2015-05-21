@@ -6,6 +6,11 @@
           "source": "in-office-minidell",
           "handle": "centos6/engine/v1.qcow2",
           "timestamp": 1428328144
+        },
+        "v2": {
+          "source": "in-office-minidell", 
+          "handle": "centos6/engine/v2.qcow2", 
+          "timestamp": 1432217222
         }
       }
     },
@@ -15,6 +20,11 @@
           "source": "in-office-minidell",
           "handle": "centos6/host/v1.qcow2",
           "timestamp": 1428328144
+        },
+        "v2": {
+          "source": "in-office-minidell", 
+          "handle": "centos6/host/v2.qcow2", 
+          "timestamp": 1432217222
         }
       }
     },
@@ -24,6 +34,11 @@
           "source": "in-office-minidell",
           "handle": "centos7/engine/v1.qcow2",
           "timestamp": 1428328144
+        },
+        "v2": {
+          "source": "in-office-minidell", 
+          "handle": "centos7/engine/v2.qcow2", 
+          "timestamp": 1432217222
         }
       }
     },
@@ -42,6 +57,11 @@
           "source": "in-office-minidell",
           "handle": "centos7/host/centos7-container-tpl.qcow2",
           "timestamp": 1428328144
+        },
+        "v2": {
+          "source": "in-office-minidell", 
+          "handle": "centos7/host/v2.qcow2", 
+          "timestamp": 1432217222
         }
       }
     },
